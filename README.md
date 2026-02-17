@@ -1,14 +1,71 @@
-## Hi there 👋
-
 <!--
 **altoro-iv/altoro-iv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I earned my bachelor's in computer science with a concentration in software engineering through Southern New Hampshire University Summa Cum Laude in November, 2025.
-- 🌱 I’m currently learning Foundations through the Odin Project, the Back-end Developer Path(OOP in Python) through Boot.dev, as well as going through the Computer Science career path on Codecademy. I feel like I haven't learned/retained as much as I would like through just college alone so I'm trying to develop my skillset in any way possible.
-- 👯 I’m looking to collaborate on anything that will teach me something and reinforce knowledge, preferably web development or app development.
-- 🤔 I’m looking for help with getting into the field, would really love to land a job or internship.
-- 💬 Ask me about my passion for fitness and how I'm planning on incorporating web/app development into it.
-- 📫 How to reach me: altoro.iv@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have an obsession with reading and collecting books and currently have over 700. Trying to get to 1,000 so I can officially say I have a personal library because I guess that's the requirement these days.
+<div align="center">
+
+# Miguel Altoro
+### Software Engineer
+
+*Building reliable software, one commit at a time.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-altoro--dev-181717?style=flat-square&logo=github)](https://github.com/altoro-dev)
+
+</div>
+
+---
+
+## About Me
+
+I'm a software engineer with a focus on building clean, practical applications using Python and Java. I enjoy tackling real-world problems through code and am always working to sharpen my engineering fundamentals.
+
+- Currently building **DateNightApp** — a project to help couples discover and plan date night ideas
+- Deepening my Java skills with a focus on best practices and design patterns
+- I write code that's readable, maintainable, and built to last
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+
+---
+
+## Current Projects
+
+### DateNightApp
+A web application designed to help couples plan and discover date night ideas — from cozy nights in to local adventures. Built with a focus on simplicity and a great user experience.
+
+> *Currently in development*
+
+---
+
+## What I'm Learning
+
+- **Java** — working through object-oriented design, data structures, and building progressively more complex applications
+- Design patterns and software architecture principles
+
+---
+
+## Get In Touch
+
+I'm always open to collaborating on interesting projects or connecting with fellow engineers.
+
+[![GitHub](https://img.shields.io/badge/GitHub-altoro--dev-181717?style=flat-square&logo=github)](https://github.com/altoro-dev)
+
+---
+
+<div align="center">
+  <sub>Thanks for stopping by 👋</sub>
+</div>
