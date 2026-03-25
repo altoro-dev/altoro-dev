@@ -63,6 +63,8 @@ A web application designed to help couples plan and discover date night ideas â€
 I'm always open to collaborating on interesting projects or connecting with fellow engineers.
 
 [![GitHub](https://img.shields.io/badge/GitHub-altoro--dev-181717?style=flat-square&logo=github)](https://github.com/altoro-dev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Altoro_dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-altoro)
 
 ---
 
